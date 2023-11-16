@@ -1,5 +1,2 @@
 # CAT_project_dennissilveramos.
-this is a personal portfolio
-each file contains content used to make the portfolio website
-the website is made using htmml and css
-on the portfolio page at projects there is a project . the project is an attemt to create an animated website using html and css for a cyber security company
+this is a personal portfolio that is built using html and css.Each file contains content that has been used in making this portfolio. In the portfolio under projects there is a project of an attempt in building an animated cyber security company website using html and css
